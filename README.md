@@ -1,5 +1,10 @@
 # Browser Digital Fingerprinting Hook with Machine Learning
 
+## Contributers:
+- Martin Hanna: Data analysis & Statistical calculations, and market research.
+- Abdullah AlSharji: Lead developer.
+- Nasser AlKhaifi: Website engineering.
+
 ## Overview
 
 This project implements a **DLL injector** that attaches to a user's browser, intercepts digital fingerprinting functions, and logs their frequency and combinations. It utilizes a **pre-trained Random Forest model** in C++ to analyze the captured data and detect potential digital fingerprinting attempts based on these API call patterns.
